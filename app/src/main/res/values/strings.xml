@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HD Screen Tester</string>
+    <string name="hd_message">HD</string>
+    <string name="not_hd_message">not HD :(</string>
+    <string name="screen_dimens">%1dpx by %2dpx</string>
+    <string name="this_device_is">This device is:</string>
+</resources>
